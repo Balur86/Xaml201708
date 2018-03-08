@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/XamlGame/XamlGame/obj
+/XamlGame/XamlGame/bin
+/XamlGame/.vs
