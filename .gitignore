@@ -2,7 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/XamlGame/XamlGame/obj
-/XamlGame/XamlGame/bin
-/XamlGame/.vs
+**/.vs
+**/obj
+**/bin
