@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlGame", "XamlGame\XamlGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01GridLayout", "01GridLayout\01GridLayout.csproj", "{607D8082-9D4A-4997-B54A-D17D442D3FA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02StackLayout", "02StackLayout\02StackLayout.csproj", "{B2C68DE4-52A4-45F0-9C86-8724D05E3131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{607D8082-9D4A-4997-B54A-D17D442D3FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607D8082-9D4A-4997-B54A-D17D442D3FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607D8082-9D4A-4997-B54A-D17D442D3FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C68DE4-52A4-45F0-9C86-8724D05E3131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C68DE4-52A4-45F0-9C86-8724D05E3131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C68DE4-52A4-45F0-9C86-8724D05E3131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C68DE4-52A4-45F0-9C86-8724D05E3131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
