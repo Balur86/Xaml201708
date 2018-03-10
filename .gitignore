@@ -5,3 +5,4 @@
 **/.vs
 **/obj
 **/bin
+/XamlGame/packages/FontAwesome.WPF.4.7.0.9
